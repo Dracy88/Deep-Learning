@@ -8,4 +8,4 @@ Some of my projects with Deep Learning:
 - Flower Recognizer: using the CNN and the Transfer learning technique, we can classify 102 types of flower
 - Flower Recognizer 2: using the CNN and the Fine Tuning technique, we can classify 102 types of flower
 - Time series predictor (Coming soon..)
-- Speech Recognizer: converting audio files into text (Planned)
+- Speech Recognizer: converting audio files into text (Coming soon..)
